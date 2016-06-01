@@ -11,6 +11,10 @@ color:
     - '#85A5CC'
     - '#D0E4F2'
 layout_spectrum: 0.9016007976606488
+author:
+  name: Max BIRBES
+  email: max.birbes@melacom.it
+  url: 'http://www.melacom.com'
 name: MELACOM
 favicon: null
 title: 'Value created and delivered!'
