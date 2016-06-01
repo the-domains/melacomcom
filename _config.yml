@@ -1,16 +1,16 @@
-typography_spectrum: 0.8440544109325856
+typography_spectrum: 0.3446858257520944
 color:
-  brandStrength: 0.28773649828508496
-  lightness: 0.09399523539468646
-  saturation: 0.7935251519083977
-  rhythmicContrast: 0.1565978666767478
+  brandStrength: 0.6568948307540268
+  lightness: 0.837194591993466
+  saturation: 0.6933458091225475
+  rhythmicContrast: 0.22474371269345284
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-layout_spectrum: 0.9016007976606488
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+layout_spectrum: 0.2265239756088704
 author:
   name: Max BIRBES
   email: max.birbes@melacom.it
