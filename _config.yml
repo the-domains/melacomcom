@@ -1,0 +1,14 @@
+layout_spectrum: 0.9016007976606488
+typography_spectrum: 0.8440544109325856
+color:
+  brandStrength: 0.28773649828508496
+  lightness: 0.09399523539468646
+  saturation: 0.7935251519083977
+  rhythmicContrast: 0.1565978666767478
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: melacom.com
