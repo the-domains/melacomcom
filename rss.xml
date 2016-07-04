@@ -4,7 +4,7 @@
         <description><![CDATA[Value created and delivered!]]></description>
         <link>https://thegrid.ai/melacom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 22:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 22:55:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melacom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST]]></title>
@@ -14,11 +14,11 @@
             <pubDate>Sun, 03 Jul 2016 20:31:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e86df309fe643018f8b2a3a8d9befae2/croprotate.png?cropheight=626&cropwidth=1899&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe41bf11-cc84-4a4d-91b5-f60e6b9012cb.png&x=0&y=0" alt="Solo i pazzi cambiano il mondo!">]]></description>
+            <title><![CDATA[Solo i pazzi ...]]></title>
+            <description><![CDATA[<article><h1>Solo i pazzi ...</h1><p>Testo di prova di solo i pazzi cambiano il</p></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe41bf11-cc84-4a4d-91b5-f60e6b9012cb.png</link>
             <guid isPermaLink="false">c61c1988-6a83-4f90-8b8f-126ae4612150</guid>
-            <pubDate>Mon, 04 Jul 2016 22:53:20 GMT</pubDate>
+            <pubDate>Mon, 04 Jul 2016 22:55:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
