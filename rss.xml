@@ -4,7 +4,7 @@
         <description><![CDATA[Value created and delivered!]]></description>
         <link>https://thegrid.ai/melacom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 20:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 22:51:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melacom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/684822ee-2ac9-4a68-ae8a-6dc95d956b3e.png</link>
             <guid isPermaLink="false">64ebc6c7-157e-48ee-b527-a8a342c3597e</guid>
             <pubDate>Sun, 03 Jul 2016 20:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e86df309fe643018f8b2a3a8d9befae2/croprotate.png?cropheight=626&cropwidth=1899&degrees=0&input=https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe41bf11-cc84-4a4d-91b5-f60e6b9012cb.png&x=0&y=0" alt="Solo i pazzi cambiano il mondo!">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe41bf11-cc84-4a4d-91b5-f60e6b9012cb.png</link>
+            <guid isPermaLink="false">c61c1988-6a83-4f90-8b8f-126ae4612150</guid>
+            <pubDate>Mon, 04 Jul 2016 22:51:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
