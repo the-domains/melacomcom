@@ -4,7 +4,7 @@
         <description><![CDATA[Value created and delivered!]]></description>
         <link>https://thegrid.ai/melacom/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 22:55:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2016 17:11:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melacom/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[TEST]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/684822ee-2ac9-4a68-ae8a-6dc95d956b3e.png</link>
             <guid isPermaLink="false">64ebc6c7-157e-48ee-b527-a8a342c3597e</guid>
             <pubDate>Sun, 03 Jul 2016 20:31:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[POST FULL TEST]]></title>
+            <description><![CDATA[<article><h1>POST FULL TEST</h1><h2>iuyiuyiuyi</h2><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ee2a101cc7124b5ca1f2b566d738762/croprotate.jpg?cropheight=899&cropwidth=1349&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc38d5bf1-f146-4119-8564-035a86798167.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c38d5bf1-f146-4119-8564-035a86798167.jpg</link>
+            <guid isPermaLink="false">8842a46c-6b37-49ce-b002-b69223d4be8d</guid>
+            <pubDate>Wed, 13 Jul 2016 17:11:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Solo i pazzi ...]]></title>
